@@ -20,7 +20,7 @@ const About = () => (
     <article className="post" id="about">
       <header>
         <div className="title">
-          <h2><Link to="/about">About Me</Link></h2>
+          <h2><Link to="/about">qui si parla di me, un misto tra vita privata 'formale' e vita lavorativa</Link></h2>
           <p>(in about {count} words)</p>
         </div>
       </header>

@@ -25,6 +25,7 @@ const PersonalStats = () => {
 
   return (
     <>
+      <h3>tutta questa pagina mi sa che la tolgo</h3>
       <h3>Some stats about me</h3>
       <Table data={Object.keys(data).map((key) => data[key])} />
     </>
